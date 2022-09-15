@@ -66,7 +66,7 @@ I designed 2 gen of outshell. Both 3D printable.
 
 <img src="/mdoels.jpg" alt="Alt text" title="Optional title" height="600" width="800">
 
-<img src="/mdoelsFor2Gen.jpg" alt="Alt text" title="Optional title" height="600" width="800">
+<img src="/modelsFor2Gen.jpg" alt="Alt text" title="Optional title" height="600" width="800">
 
 <br/>
 
