@@ -70,8 +70,8 @@ I designed 2 gen of outshell. Both 3D printable.
 
 <br/>
 
-
 ** Abstract **
+
 With the development of the intelligent home, many smart homes that are convenient for people's life are gradually stepping into people's lives. The so-called smart home refers to the integration of facilities related to home life by using generic cabling technology, network communication technology, security protection technology, automatic control technology, and audio and video technology to build an efficient management system of residential facilities and family schedule, improve the safety, convenience, comfort, and artistry of home, and achieve an environment-friendly and energy-saving living environment. Suppose the air conditioner can be made intelligent, for example. In that case, it will automatically turn off half an hour after people leave the air-conditioned room. They no longer worry about forgetting to turn off the air conditioner when they are in a hurry to go to work or in public places such as classrooms, and people lack the awareness of saving electricity. Therefore, I want to develop an intelligent air conditioning control system to facilitate user operation and save energy, environmental protection, and money.
 
 
