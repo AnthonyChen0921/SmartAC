@@ -71,6 +71,24 @@ I designed 2 gen of outshell. Both 3D printable.
 <br/>
 
 
+** Abstract **
+With the development of the intelligent home, many smart homes that are convenient for people's life are gradually stepping into people's lives. The so-called smart home refers to the integration of facilities related to home life by using generic cabling technology, network communication technology, security protection technology, automatic control technology, and audio and video technology to build an efficient management system of residential facilities and family schedule, improve the safety, convenience, comfort, and artistry of home, and achieve an environment-friendly and energy-saving living environment. Suppose the air conditioner can be made intelligent, for example. In that case, it will automatically turn off half an hour after people leave the air-conditioned room. They no longer worry about forgetting to turn off the air conditioner when they are in a hurry to go to work or in public places such as classrooms, and people lack the awareness of saving electricity. Therefore, I want to develop an intelligent air conditioning control system to facilitate user operation and save energy, environmental protection, and money.
+
+
+1 Infrared module
+One part is to use an infrared transmitter and receiver, which can easily make the air conditioner reach the effect of temperature regulation and switch. The other part uses HC-SR501. HC-SR501 is a human body infrared sensing module that can sense the presence of people within the range. When someone is in the air-conditioned room, the air conditioner can continue to operate. As long as people leave the room for a particular time, they can send a shutdown signal through the front infrared transmitter to shut down the air conditioner to save power.
+2 Temperature module
+DHT11 was used in this experiment for its advantages in many aspects. DHT11 has an ultra-small volume, low power consumption, fast response speed, and accurate temperature measurement and humidity. The temperature and humidity information can be directly transferred to Arduino to perform the next step.
+
+3 System Installation
+
+3.1 Program Construction
+Because Arduino is used as the microcontroller, Arduino IDE is used as the programming software in this experiment.
+
+① Air conditioning infrared code
+The circuit connected with the infrared receiver and Arduino is used to receive the infrared signals of opening, closing, and temperature regulating on the remote controller of the air conditioner. The 229 lengths of array infrared signal read are programmed to facilitate proper control of the air conditioner in the future.
+
+
 
 
 
