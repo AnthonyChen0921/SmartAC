@@ -7,12 +7,12 @@ The program start to do the counting towards 10min / any time that you want, it 
 
 
 
-
+<br/>
 
 
 <img src="/AC3.jpg" alt="Alt text" title="Optional title"  height="600" width="800">
 
-
+<br/>
 
 
 
@@ -27,12 +27,12 @@ Raw: (139) 8956,4408,700,1592,700,500,700,496,700,500,700,1592,700,1592,700,500,
 
 
 
-
+<br/>
 
 <img src="/smartAC.jpg" alt="Alt text" title="Optional title" height="500" width="800">
 
 
-
+<br/>
 
 
 
@@ -52,17 +52,23 @@ No need to mention, this is a huge array.
 At first i store them in the main memory of arduino uno, but they are really too big. So i use const int to store them to flash memory, which is enough for more than 50 lines for Gree. But some good companies in AC developer more complex infrared red signal, taking more space in my memory. Maybe could use Wifi module to store them in the online databse such as Mongodb, so that the device can pull those data when necessary. Plus, connecting to the wifi allows remote start, set timer, and more advanced features. Which is a to-do for this project.
 
 
-
+<br/>
 
 <img src="/smartAC2.jpg" alt="Alt text" title="Optional title" height="600" width="800">
 
-
+<br/>
 
 
 I designed 2 gen of outshell. Both 3D printable.
 
 
+<br/>
 
+<img src="/mdoels.jpg" alt="Alt text" title="Optional title" height="600" width="800">
+
+<img src="/mdoelsFor2Gen.jpg" alt="Alt text" title="Optional title" height="600" width="800">
+
+<br/>
 
 
 
