@@ -5,6 +5,8 @@ Basic logic:
 If human body detection module sense empty room, it return 0 reading to the port.
 The program start to do the counting towards 10min / any time that you want, it could be customized.
 
+<img src="/smartAC3.jpg" alt="Alt text" title="Optional title" height="600" width="800">
+
 How my device connect to the AC:
 Use the infra RED receptor, connected to the port, and use the controller you have (I did for Gree and Mitsubishi) to take in the array sended by the controllers.
 Then store the arrays into database. Send them when the logic designed is met.
@@ -25,5 +27,5 @@ At first i store them in the main memory of arduino uno, but they are really too
 
 <img src="/smartAC.jpg" alt="Alt text" title="Optional title">
 <img src="/smartAC2.jpg" alt="Alt text" title="Optional title">
-<img src="/smartAC3.jpg" alt="Alt text" title="Optional title">
+
 
